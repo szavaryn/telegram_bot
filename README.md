@@ -8,7 +8,7 @@ Since 08.2020 huge number of volunteers have been collecting the information and
 Sometimes you take a look at such lists and attempt to find someone whom is known for you: relatives, friends, colleagues, schoolmates, etc. It could be extremely useful in case if you are able to sent some food and clothes or help somehow the prisoner's family.
 
 I've created fast solution of very simple Telegram bot for matching data row per row by names and surnames:
-- You need to list surname, name, patronymic and birthyear of all persons you are interested it to separate .csv;
+- You need to list surname, name, patronymic and birth year of all persons you are interested it to separate .csv;
 - Load it to local database;
 - Forward a message from Telegram channels of volunteers;
 - Notice the result: the pairs of matched rows, one from your list and another from list of prisoners. 
